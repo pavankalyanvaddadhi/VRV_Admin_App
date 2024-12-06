@@ -34,10 +34,9 @@ This project is a Role-Based Access Control (RBAC) User Interface designed to ma
 
 ## Technology Stack
 
-- Frontend Framework: [React.js/Angular/Vue.js]
-- State Management: [Redux/Context API/Pinia]
-- Mock API: JSON Server/Axios Mock Adapter
-- Styling: [CSS Framework or Preprocessor] (e.g., TailwindCSS/Bootstrap/SCSS)
+- Frontend Framework: React.js
+- State Management: Redux
+- Styling:TailwindCSS
 
 ---
 
