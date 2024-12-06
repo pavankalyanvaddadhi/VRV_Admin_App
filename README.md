@@ -43,8 +43,8 @@ This project is a Role-Based Access Control (RBAC) User Interface designed to ma
 ## How to Run
 
 ### 1. Prerequisites
-- Node.js (version x.x.x or higher)
-- npm or yarn package manager
+- Node.js 
+- npm 
 
 ### 2. Installation
 1. Clone the repository:
